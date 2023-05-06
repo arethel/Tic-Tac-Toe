@@ -1,4 +1,4 @@
-# Tic-Tac-Toe on Python:
+# Tic-Tac-Toe:
 ## Modules and structure:
 - pygame framework
 - unittest module (testing MVC structure - _test_model.py_)
@@ -9,11 +9,7 @@
 - with functions (_tic_tac_toe.py_)
 - with MVC-pattern (_tic_tac_toe_MVC.py_)
 ## Description:
-This project works like a simple window application where you can play Tic-Tac-Toe:
-
 You can play both with your friends on the same computer OR with a bot
-
-<img src="https://user-images.githubusercontent.com/109428348/230091195-c8d04346-d9fd-42cd-af30-0cae64c4225d.png" width="300" height="300" />
 
 ## How to use:
 - First starts with PVP
